@@ -1,0 +1,14 @@
+/home/tabrez-dev/RiderProjects/дз/дз/bin/Debug/net8.0/дз
+/home/tabrez-dev/RiderProjects/дз/дз/bin/Debug/net8.0/дз.deps.json
+/home/tabrez-dev/RiderProjects/дз/дз/bin/Debug/net8.0/дз.runtimeconfig.json
+/home/tabrez-dev/RiderProjects/дз/дз/bin/Debug/net8.0/дз.dll
+/home/tabrez-dev/RiderProjects/дз/дз/bin/Debug/net8.0/дз.pdb
+/home/tabrez-dev/RiderProjects/дз/дз/obj/Debug/net8.0/дз.GeneratedMSBuildEditorConfig.editorconfig
+/home/tabrez-dev/RiderProjects/дз/дз/obj/Debug/net8.0/дз.AssemblyInfoInputs.cache
+/home/tabrez-dev/RiderProjects/дз/дз/obj/Debug/net8.0/дз.AssemblyInfo.cs
+/home/tabrez-dev/RiderProjects/дз/дз/obj/Debug/net8.0/дз.csproj.CoreCompileInputs.cache
+/home/tabrez-dev/RiderProjects/дз/дз/obj/Debug/net8.0/дз.dll
+/home/tabrez-dev/RiderProjects/дз/дз/obj/Debug/net8.0/refint/дз.dll
+/home/tabrez-dev/RiderProjects/дз/дз/obj/Debug/net8.0/дз.pdb
+/home/tabrez-dev/RiderProjects/дз/дз/obj/Debug/net8.0/дз.genruntimeconfig.cache
+/home/tabrez-dev/RiderProjects/дз/дз/obj/Debug/net8.0/ref/дз.dll
